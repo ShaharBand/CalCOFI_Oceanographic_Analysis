@@ -1,11 +1,30 @@
-# CalCOFI_analysis
-This notebook analyzes the CalCOFI dataset using machine learning to find connections between water temperature and salinity.
+# CalCOFI Oceanographic Analysis
+This repository contains an analysis of the CalCOFI (California Cooperative Oceanic Fisheries Investigations) dataset, which represents one of the longest and most complete time series of oceanographic and larval fish data in the world.
 
-## Context
-The CalCOFI data set represents the longest (1949-present) and most complete (more than 50,000 sampling stations) time series of oceanographic and larval fish data in the world.
+## 📋 Introduction
+The analysis aims to investigate the relationship between water temperature, water salinity, and other factors such as water depth using data collected by CalCOFI. It includes data preprocessing, exploratory data analysis, modeling, and evaluation of the predictive performance of the model.
 
-It includes abundance data on the larvae of over 250 species of fish larval length frequency data and egg abundance data on key commercial species and oceanographic and plankton data.
+## 🗃️ Dataset
+The CalCOFI dataset consists of various oceanographic parameters such as water temperature, salinity, oxygen levels, and more, collected at regular time and space intervals since 1949.
 
-The physical, chemical, and biological data collected at regular time and space intervals quickly became valuable for documenting climatic cycles in the California Current and a range of biological responses to them.
+The dataset used in this analysis can be found on [Kaggle](https://www.kaggle.com/datasets/sohier/calcofi).
 
-(https://www.kaggle.com/datasets/sohier/calcofi)
+## 🌱 Getting Started
+To replicate this analysis, follow these steps:
+
+1. Clone the repository:
+   `https://github.com/ShaharBand/CalCOFI_Oceanographic_Analysis.git`
+   
+2. Install the required libraries
+   `pip install ...`
+   
+3. Open the Jupyter Notebook `CalCOFI_Oceanographic_Analysis.ipynb` to view the analysis steps and code.
+
+## 📊 Conclusion
+The analysis provides insights into the relationship between water temperature, salinity, and other oceanographic parameters. By understanding these relationships, we can better understand the dynamics of the California Current and its impact on marine life.
+
+## 👨‍💻 Contributions:
+Feel free to explore the code and contribute to further analysis or improvements!
+
+## 💼 License
+This project is licensed under the MIT License.
