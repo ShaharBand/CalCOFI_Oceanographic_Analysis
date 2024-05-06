@@ -1,3 +1,5 @@
+<img width="250px" src="https://github.com/ShaharBand/CalCOFI_Oceanographic_Analysis/assets/73305429/c8ce6535-1a00-47d8-81af-65dcbe274124">
+
 # CalCOFI Oceanographic Analysis
 This repository contains an analysis of the CalCOFI (California Cooperative Oceanic Fisheries Investigations) dataset, which represents one of the longest and most complete time series of oceanographic and larval fish data in the world.
 
