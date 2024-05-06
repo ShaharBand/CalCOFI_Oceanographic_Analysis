@@ -2,7 +2,9 @@
 This repository contains an analysis of the CalCOFI (California Cooperative Oceanic Fisheries Investigations) dataset, which represents one of the longest and most complete time series of oceanographic and larval fish data in the world.
 
 ## 📋 Introduction
-The analysis aims to investigate the relationship between water temperature, water salinity, and other factors such as water depth using data collected by CalCOFI. It includes data preprocessing, exploratory data analysis, modeling, and evaluation of the predictive performance of the model.
+The analysis aims to investigate the relationship between water temperature, water salinity, and other factors such as water depth using data collected by CalCOFI. 
+
+It includes data preprocessing, exploratory data analysis, modeling, and evaluation of the predictive performance of the model.
 
 ## 🗃️ Dataset
 The CalCOFI dataset consists of various oceanographic parameters such as water temperature, salinity, oxygen levels, and more, collected at regular time and space intervals since 1949.
@@ -21,7 +23,9 @@ To replicate this analysis, follow these steps:
 3. Open the Jupyter Notebook `CalCOFI_Oceanographic_Analysis.ipynb` to view the analysis steps and code.
 
 ## 📊 Conclusion
-The analysis provides insights into the relationship between water temperature, salinity, and other oceanographic parameters. By understanding these relationships, we can better understand the dynamics of the California Current and its impact on marine life.
+The analysis provides insights into the relationship between water temperature, salinity, and other oceanographic parameters. 
+
+By understanding these relationships, we can better understand the dynamics of the California Current and its impact on marine life.
 
 ## 👨‍💻 Contributions:
 Feel free to explore the code and contribute to further analysis or improvements!
