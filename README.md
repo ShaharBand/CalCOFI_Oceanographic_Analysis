@@ -15,8 +15,8 @@ To replicate this analysis, follow these steps:
 1. Clone the repository:
    `https://github.com/ShaharBand/CalCOFI_Oceanographic_Analysis.git`
    
-2. Install the required libraries
-   `pip install ...`
+2. Install the required libraries:
+   `pip install requirements.txt`
    
 3. Open the Jupyter Notebook `CalCOFI_Oceanographic_Analysis.ipynb` to view the analysis steps and code.
 
